@@ -1,4 +1,3 @@
-#ifndef __PROGTEST__
 #include <cstring>
 #include <cstdlib>
 #include <cstdio>
